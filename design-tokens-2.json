@@ -1,0 +1,40 @@
+{
+  "font": {
+    "family": {
+      "primary": { "value": "Inter, sans-serif" },
+      "secondary": { "value": "Merriweather, serif" }
+    },
+    "size": {
+      "small": { "value": "12px" },
+      "body": { "value": "16px" },
+      "large": { "value": "24px" },
+      "title": { "value": "32px" }
+    },
+    "weight": {
+      "regular": { "value": "400" },
+      "bold": { "value": "700" }
+    },
+    "lineHeight": {
+      "small": { "value": "16px" },
+      "body": { "value": "24px" },
+      "large": { "value": "32px" }
+    }
+  },
+  "spacing": {
+    "xs": { "value": "4px" },
+    "sm": { "value": "8px" },
+    "md": { "value": "16px" },
+    "lg": { "value": "24px" },
+    "xl": { "value": "32px" }
+  },
+  "borderRadius": {
+    "small": { "value": "4px" },
+    "medium": { "value": "8px" },
+    "large": { "value": "16px" }
+  },
+  "shadow": {
+    "small": { "value": "0px 2px 4px rgba(0,0,0,0.1)" },
+    "medium": { "value": "0px 4px 8px rgba(0,0,0,0.15)" },
+    "large": { "value": "0px 8px 16px rgba(0,0,0,0.2)" }
+  }
+}

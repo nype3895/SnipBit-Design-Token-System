@@ -10,4 +10,3 @@ The design token system now includes:
 Typography Tokens: Primary & secondary font families, sizes, line heights, and weights.
 Spacing Tokens: A consistent scale for margins, paddings, and grid spacing.
 Effects Tokens: Border radius values and shadows for UI consistency.
-[design-tokens.json](https://github.com/user-attachments/files/19673880/design-tokens.json)

@@ -10,27 +10,3 @@ The design token system now includes:
 Typography Tokens: Primary & secondary font families, sizes, line heights, and weights.
 Spacing Tokens: A consistent scale for margins, paddings, and grid spacing.
 Effects Tokens: Border radius values and shadows for UI consistency.
-Typography (tokens/typography.json)
-{
-  "font": {
-    "family": {
-      "primary": { "value": "Inter, sans-serif" },
-      "secondary": { "value": "Merriweather, serif" }
-    },
-    "size": {
-      "small": { "value": "12px" },
-      "body": { "value": "16px" },
-      "large": { "value": "24px" },
-      "title": { "value": "32px" }
-    },
-    "weight": {
-      "regular": { "value": "400" },
-      "bold": { "value": "700" }
-    },
-    "lineHeight": {
-      "small": { "value": "16px" },
-      "body": { "value": "24px" },
-      "large": { "value": "32px" }
-    }
-  }
-}
